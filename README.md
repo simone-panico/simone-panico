@@ -14,7 +14,7 @@
 
 ---
 
-I'm a Swiss-based developer working at **SRF** (Swiss Radio and Television). I build things with **Swift**, **Python** and **C#**.
+I'm a Swiss-based developer working at **SRF** (Swiss Radio and Television). I mainly build things with **Swift**, **Python** and **C#** but I am always open to learn more.
 
 <br/>
 
