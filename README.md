@@ -4,7 +4,7 @@
 
 <br/>
 
-`iOS Developer` · `Algorithmic Trading` · `Quantum Computing` · `Open Source`
+`iOS Developer` · `Algorithmic Trading` · `Quantum Computing` · `Artificial Intelligence` · `Open Source`
 
 <br/>
 
