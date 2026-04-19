@@ -18,12 +18,14 @@ I'm a Swiss-based developer working at **SRF** (Swiss Radio and Television). I b
 
 <br/>
 
-## Current Personal Projects
+## Personal Projects
 
 | Project | Description |
 |---|---|
 | [**Learning Quantum Computing**](https://github.com/simone-panico/Learning-Quantum-Computing) | My journey learning quantum computing. Everything from quantum gates, Dirac notation, Grover's algorithm, to circuit design with Qiskit. `Python` `Qiskit` |
 | [**DoyVestment**](https://github.com/DO-YAC/DoyVestment.public) | An algorithmic trading platform built with [Adrian](https://github.com/Adrian-Mue). Combines AIs and strategies with a modular engine, memory-mapped files for fast tick processing and order execution through a MetaTrader 5 instance. `C#` `Python` `MQL5` `C++` |
+| [**Brain MRI Segmentation**](https://github.com/simone-panico/Brain-MRI-SA) | U-Net based brain tumor segmentation from MRI scans, with feature map visualizations and mathematical analysis of the architecture. Built as a school project and graded 6/6. `Python` `PyTorch` |
+| [**PyTorchLayerViz**](https://github.com/simone-panico/PyTorchLayerViz) | A pip-installable Python library for visualizing weights and feature maps of PyTorch models. Supports CUDA and custom transforms. `Python` `PyTorch` |
 
 <br/>
 
