@@ -32,8 +32,14 @@ I'm a Swiss-based developer working at **SRF** (Swiss Radio and Television). I m
 ## Open Source contributions 
 
 🍎 **Apple Container** — Contributing to Apple's container runtime.
-* Added the `container copy/cp` command for host-container file transfer via the guest agent. → [PR #1190](https://github.com/apple/container/pull/1190) `Swift`
+* Added the `container copy/cp` command for host-container file transfer via the guest agent. → [PR #1190](https://github.com/apple/container/pull/1190) ✅ `Swift`
 * Fixed environment variable duplication when overriding Dockerfile `ENV` at runtime. → [PR #1218](https://github.com/apple/container/pull/1218) ✅ `Swift` 
+
+🍎 **Apple Containerization** — Contributing to Apple's Swift package for running Linux containers on macOS.
+* Added path resolution for CopyIn using Stat. → [PR #727](https://github.com/apple/containerization/pull/727) ✅ `Swift`
+
+🌀 **Warp** — Contributing to Warp, an agentic development environment born out of the terminal.
+* Fixed Ctrl+Tab palette getting stuck on fast presses. → [PR #11222](https://github.com/warpdotdev/warp/pull/11222) `Rust`
 
 <br/>
 
