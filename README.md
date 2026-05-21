@@ -80,7 +80,7 @@ I'm a Swiss-based developer working at **SRF** (Swiss Radio and Television). I m
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=simone-panico&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=simone-panico&theme=github-dark-blue&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true&v=2" alt="GitHub Streak Stats" />
 
 </div>
 
